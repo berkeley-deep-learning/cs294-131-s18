@@ -86,7 +86,8 @@ complete a research-quality class project.
 **For undergraduates**: Please note that this is a graduate-level class.
 However, with instructors' permission, we do allow qualified undergraduate
 students to be in the class. If you are an undergraduate student and would like
-to enroll in the class, please fill out (TBD)
+to enroll in the class, please fill out
+[**this form**](https://goo.gl/forms/akShIRmDLmmlaiu92)
 and come to the first lecture of the class. Qualified undergraduates will be
 given instructor codes to be allowed to register for the class after the first
 lecture of the class, subject to space availability.
