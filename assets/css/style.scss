@@ -1,0 +1,31 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.instructorphoto img {
+  width: 120px;
+  border-radius: 120px;
+  margin-bottom: 10px;
+}
+.twitterphoto img {
+  width: 2px;
+  height: 2px;
+}
+.instructor {
+  display: inline-block;
+  width: 160px;
+  text-align: center;
+  margin-right: 20px;
+}
+
+.main-content {
+  @include large {
+    max-width: 72rem;
+  }
+}
+
+ul, ol {
+  margin: 0;
+  padding-left: 1rem;
+}
