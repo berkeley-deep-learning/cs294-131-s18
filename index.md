@@ -52,10 +52,8 @@ You may see the intro slides from the first day of class [here](https://github.c
 
 ## Piazza
 
-Course announcements will be announced through **Piazza**.
-
-If you are in the class, you may sign up on
-[Piazza](https://piazza.com/class/j8waviey9h55w8).
+Course announcements will be announced through Piazza. If you are in the class,
+[**sign up on Piazza**](https://piazza.com/class/j8waviey9h55w8).
 
 For more information about deep learning at Berkeley, sign up for the
 [talk announcement mailing list](https://groups.google.com/forum/#!forum/berkeley-deep-learning).
