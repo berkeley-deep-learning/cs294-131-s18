@@ -102,6 +102,10 @@ and come to the first lecture of the class. Qualified undergraduates will be
 given instructor codes to be allowed to register for the class after the first
 lecture of the class, subject to space availability.
 
+If you have not received grades for some classes that you are currently enrolled
+in, please choose **Currently Enrolled** and then update the form when you
+receive your final grades.
+
 Students may enroll in this class for variable units.
 
 * 1 unit: Participate in reading assignments (including serving as discussion lead once and Arxiv lead once).
@@ -114,6 +118,7 @@ Students may enroll in this class for variable units.
 * You **may not** take this class for 4 units.
 
 ## Deadlines
+
 * Reading assignment deadlines:
   * For students,
     * Submit questions by Friday noon
