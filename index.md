@@ -104,7 +104,9 @@ lecture of the class, subject to space availability.
 
 If you have not received grades for some classes that you are currently enrolled
 in, please choose **Currently Enrolled** and then update the form when you
-receive your final grades.
+receive your final grades. You may also be interested in [this
+class](https://people.eecs.berkeley.edu/~jfc/DeepLearn.html), which is open to
+undergraduates.
 
 Students may enroll in this class for variable units.
 
