@@ -110,14 +110,14 @@ undergraduates.
 
 Students may enroll in this class for variable units.
 
-* 1 unit: Participate in reading assignments (including serving as discussion lead once and Arxiv lead once).
-* 2 units: Complete a project.  Projects may fall into one of four categories:
+* **1 unit:** Participate in reading assignments (including serving as discussion lead once and Arxiv lead once).
+* **3 units:** Both reading assignments and a project. Projects may fall into one of
+  four categories:
   * Traditional Literature Review of a deep learning topic (e.g., literature review of deep dialogue systems)
   * Distill-like Literature Review of a deep learning topic (e.g., a Distill-like blog post illustrating different optimization techniques used in deep learning)
   * Reimplement research code and open source it
   * Conference level research project
-* 3 units: Both reading assignments and a project.
-* You **may not** take this class for 4 units.
+* You **may not** take this class for **4 units**.
 
 ## Deadlines
 
