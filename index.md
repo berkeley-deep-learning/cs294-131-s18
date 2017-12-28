@@ -64,7 +64,164 @@ TBD
 
 ## Syllabus
 
-TBD
+<table style="table-layout: fixed; font-size: 88%;">
+  <thead>
+    <tr>
+      <th style="width: 5%;">Date</th>
+      <th style="width: 17%;">Speaker</th>
+      <th style="width: 50%;">Readings</th>
+      <th style="width: 20%;">Talk</th>
+      <th style="width: 8%;">Deadlines</th>
+    </tr>
+  </thead>
+  <tbody>
+
+    <tr>
+      <td>01/22</td>
+      <td>TBD</td>
+      <td>TBD
+      </td>
+      <td></td>
+      <td></td>
+    </tr>
+
+    <tr>
+      <td>01/29</td>
+      <td>Alison Gopnik</td>
+      <td>TBD
+      </td>
+      <td></td>
+      <td></td>
+    </tr>
+
+    <tr>
+      <td>02/05</td>
+      <td>Mike Lewis</td>
+      <td>TBD
+      </td>
+      <td></td>
+      <td></td>
+    </tr>
+
+    <tr>
+      <td>02/12</td>
+      <td>Kevin Murphy</td>
+      <td>TBD
+      </td>
+      <td></td>
+      <td></td>
+    </tr>
+
+    <tr>
+      <td>02/19</td>
+      <td>President's Day</td>
+      <td>
+      </td>
+      <td></td>
+      <td></td>
+    </tr>
+
+    <tr>
+      <td>02/26</td>
+      <td>TBD</td>
+      <td>TBD
+      </td>
+      <td></td>
+      <td></td>
+    </tr>
+
+    <tr>
+      <td>03/05</td>
+      <td>Dileep George</td>
+      <td>TBD
+      </td>
+      <td></td>
+      <td></td>
+    </tr>
+
+    <tr>
+      <td>03/12</td>
+      <td>Bruno Olshausen</td>
+      <td>TBD
+      </td>
+      <td></td>
+      <td></td>
+    </tr>
+
+    <tr>
+      <td>03/19</td>
+      <td>TBD</td>
+      <td>TBD
+      </td>
+      <td></td>
+      <td></td>
+    </tr>
+
+    <tr>
+      <td>03/26</td>
+      <td>Spring Break</td>
+      <td>
+      </td>
+      <td></td>
+      <td></td>
+    </tr>
+
+    <tr>
+      <td>04/02</td>
+      <td>Mohammad Norouzi</td>
+      <td>TBD
+      </td>
+      <td></td>
+      <td></td>
+    </tr>
+
+    <tr>
+      <td>04/09</td>
+      <td>Abhinav Gupta</td>
+      <td>TBD
+      </td>
+      <td></td>
+      <td></td>
+    </tr>
+
+    <tr>
+      <td>04/16</td>
+      <td>Ryan Adams</td>
+      <td>TBD
+      </td>
+      <td></td>
+      <td></td>
+    </tr>
+
+    <tr>
+      <td>04/23</td>
+      <td>TBD</td>
+      <td>TBD
+      </td>
+      <td></td>
+      <td></td>
+    </tr>
+
+    <tr>
+      <td>04/30</td>
+      <td></td>
+      <td>
+      </td>
+      <td></td>
+      <td></td>
+    </tr>
+
+    <tr>
+      <td>05/07</td>
+      <td></td>
+      <td>
+      </td>
+      <td></td>
+      <td></td>
+    </tr>
+
+  </tbody>
+</table>
 
 ## Course description
 
