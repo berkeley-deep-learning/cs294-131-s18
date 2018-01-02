@@ -42,14 +42,6 @@ Robert Nishihara: TBD
 
 **Location**: Soda 306
 
-**Room Limit:** Soda 306 is designed for smaller courses. We increased course
-enrollment so more students could benefit from this course. However, if the room
-becomes too full (and thus poses a fire hazard), students who arrive after the
-room has reached capacity will be directed to watch the lecture remotely. The
-link for the live webcast (and recorded lectures) can be found on Piazza.
-
-You may see the intro slides from the first day of class [here](https://github.com/berkeley-deep-learning/cs294-131-f17/blob/master/cs294-131-f17-overview-8-22.pdf).
-
 ## Piazza
 
 Course announcements will be announced through Piazza. If you are in the class,
