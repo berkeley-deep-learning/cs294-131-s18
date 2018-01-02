@@ -195,7 +195,7 @@ TBD
 
     <tr>
       <td>04/23</td>
-      <td>TBD</td>
+      <td>Ian Goodfellow</td>
       <td>TBD
       </td>
       <td></td>
