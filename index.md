@@ -115,7 +115,7 @@ TBD
 
     <tr>
       <td>02/26</td>
-      <td>TBD</td>
+      <td>Thomas Funkhouser</td>
       <td>TBD
       </td>
       <td></td>
