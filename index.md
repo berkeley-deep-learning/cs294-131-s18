@@ -50,9 +50,6 @@ Course announcements will be announced through Piazza. If you are in the class,
 For more information about deep learning at Berkeley, sign up for the
 [talk announcement mailing list](https://groups.google.com/forum/#!forum/berkeley-deep-learning).
 
-## Arxiv Summaries
-
-TBD
 
 ## Syllabus
 
@@ -241,7 +238,7 @@ undergraduates.
 
 Students may enroll in this class for variable units.
 
-* **1 unit:** Participate in reading assignments (including serving as discussion lead once and Arxiv lead once).
+* **1 unit:** Participate in reading assignments (including serving as discussion lead once).
 * **3 units:** Both reading assignments and a project. Projects may fall into one of
   four categories:
   * Traditional Literature Review of a deep learning topic (e.g., literature review of deep dialogue systems)
@@ -260,19 +257,12 @@ Students may enroll in this class for variable units.
     * Send form to collect questions from students by Wednesday 11:59 pm
     * Summarize questions proposed by students to form the poll and send it by Friday 11:59 pm
     * Summarize the poll to generate a ranked & categorized discussion question list and send the list to teaching staff by Sunday 7pm
- * Arxiv leads (new this semester!),
-    * Throughout the week discuss papers which have appeared on Arxiv during the prior week on Piazza.  All Arxiv leads are expected to be involved in the Piazza discussion.  Other students may participate as well, but they are not required to.  
-      * [Arxiv](https://arxiv.org/) is an archive of scientific papers covering a broad set of fields.  When researchers want to share their results, they frequently place the paper on Arxiv.  There are a few Arxiv pages Arxiv leads should follow: [Computation and Language](https://arxiv.org/list/cs.CL/recent), [Artificial Intelligence](https://arxiv.org/list/cs.AI/recent), [Computer Vision and Pattern Recognition](https://arxiv.org/list/cs.CL/recent), [Learning](https://arxiv.org/list/cs.CV/recent), [Robotics](https://arxiv.org/list/cs.RO/recent), and [Neural and Evolutionary Computing](https://arxiv.org/list/cs.NE/recent).  Not all papers are deep learning papers, but most (if not all) deep learning papers will fall into one of these categories.
-    * Choose (approximately) five exciting papers and write a short summary (0.5 pages) for each paper and send to the TA by Monday morning.
-    * Give a five minute presentation at the beginning of the next class (five minutes total, not per paper).
-
 
 ## Grading
 * 20% class participation
 * 25% weekly reading assignment
-  * 7.5% discussion leads
-  * 7.5% Arxiv leads (new this semester!)
-  * 10% individual reading assignments
+  * 10% discussion leads
+  * 15% individual reading assignments
 * 55% project
 
 ## Additional Notes
