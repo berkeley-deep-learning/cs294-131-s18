@@ -70,7 +70,7 @@ TBD
 
     <tr>
       <td>01/22</td>
-      <td>TBD</td>
+      <td>Stefano Soatto</td>
       <td>TBD
       </td>
       <td></td>
@@ -142,7 +142,7 @@ TBD
 
     <tr>
       <td>03/19</td>
-      <td>TBD</td>
+      <td>Alex Smola</td>
       <td>TBD
       </td>
       <td></td>
