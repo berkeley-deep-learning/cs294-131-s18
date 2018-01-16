@@ -34,7 +34,7 @@ layout: default
 
 ## Office Hours
 
-Robert Nishihara: TBD
+Robert Nishihara: By appointment
 
 ## Lectures
 
