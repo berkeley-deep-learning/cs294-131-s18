@@ -59,8 +59,8 @@ For more information about deep learning at Berkeley, sign up for the
       <th style="width: 5%;">Date</th>
       <th style="width: 17%;">Speaker</th>
       <th style="width: 50%;">Readings</th>
-      <th style="width: 20%;">Talk</th>
-      <th style="width: 8%;">Deadlines</th>
+      <th style="width: 15%;">Talk</th>
+      <th style="width: 15%;">Deadlines</th>
     </tr>
   </thead>
   <tbody>
@@ -98,7 +98,7 @@ For more information about deep learning at Berkeley, sign up for the
       <td>TBD
       </td>
       <td></td>
-      <td></td>
+      <td>Final Project Proposal Due</td>
     </tr>
 
     <tr>
@@ -143,7 +143,7 @@ For more information about deep learning at Berkeley, sign up for the
       <td>TBD
       </td>
       <td></td>
-      <td></td>
+      <td>Final Project Milestone Due</td>
     </tr>
 
     <tr>
@@ -191,6 +191,25 @@ For more information about deep learning at Berkeley, sign up for the
       <td></td>
     </tr>
 
+    <tr>
+      <td>04/30</td>
+      <td>Tentative Poster Session Date</td>
+      <td>
+      </td>
+      <td></td>
+      <td></td>
+    </tr>
+
+    <tr>
+      <td>05/03</td>
+      <td></td>
+      <td>
+      </td>
+      <td></td>
+      <td>Tentative Final Report Due</td>
+    </tr>
+
+Poster Session
   </tbody>
 </table>
 
