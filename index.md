@@ -68,12 +68,12 @@ For more information about deep learning at Berkeley, sign up for the
     <tr>
       <td>01/22</td>
       <td><a href="https://berkeley-deep-learning.github.io/cs294-131-s18/speakers.html#stefano-soatto-the-emergence-theory-of-deep-learning">Stefano Soatto</a></td>
-      <td>Main Reading:
+      <td><u>Main Reading:</u>
       <ul>
       <li><a href="https://arxiv.org/abs/1706.01350">Emergence of Invariance and Disentanglement in Deep Representations</a> by A. Achille and S. Soatto.</li>
       <li><a href="https://arxiv.org/abs/1710.11029">Stochastic Gradient Descent Performs Variational Inference, Converges to Limit Cyles for Deep Networks</a> by P. Chaudhari and S. Soatto</li>
       </ul>
-      Background Reading:
+      <u>Background Reading:</u>
       <ul>
       <li><a href="https://en.wikipedia.org/wiki/Information_bottleneck_method">Information Bottleneck Method</a></li>
       </ul>
