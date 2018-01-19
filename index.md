@@ -284,6 +284,8 @@ Students may enroll in this class for variable units.
     * Send form to collect questions from students by Wednesday 11:59 pm
     * Summarize questions proposed by students to form the poll and send it by Friday 11:59 pm
     * Summarize the poll to generate a ranked & categorized discussion question list and send the list to teaching staff by Sunday 7pm
+    * Answer all Piazza questions about the assigned readings, both the week
+    before and the week after the lecture.
 
 ## Grading
 * 20% class participation
