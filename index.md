@@ -70,8 +70,8 @@ For more information about deep learning at Berkeley, sign up for the
       <td><a href="https://berkeley-deep-learning.github.io/cs294-131-s18/speakers.html#stefano-soatto-the-emergence-theory-of-deep-learning">Stefano Soatto</a></td>
       <td><u>Main Reading:</u>
       <ul>
-      <li><a href="https://arxiv.org/abs/1706.01350">Emergence of Invariance and Disentanglement in Deep Representations</a> by A. Achille and S. Soatto.</li>
-      <li><a href="https://arxiv.org/abs/1710.11029">Stochastic Gradient Descent Performs Variational Inference, Converges to Limit Cyles for Deep Networks</a> by P. Chaudhari and S. Soatto</li>
+      <li><a href="https://arxiv.org/abs/1706.01350">Emergence of Invariance and Disentanglement in Deep Representations</a> </li>
+      <li><a href="https://arxiv.org/abs/1710.11029">Stochastic Gradient Descent Performs Variational Inference, Converges to Limit Cycles for Deep Networks</a></li>
       </ul>
       <u>Background Reading:</u>
       <ul>
@@ -84,10 +84,18 @@ For more information about deep learning at Berkeley, sign up for the
 
     <tr>
       <td>01/29</td>
-      <td>Alison Gopnik</td>
-      <td>TBD
+      <td><a href="https://berkeley-deep-learning.github.io/cs294-131-s18/speakers.html#alison-gopnik-what-4-year-olds-can-do-and-ai-cannot-yet">Alison Gopnik</a></td>
+      <td><u>Main Reading:</u>
+      <ul>
+      <li><a href="http://www.pnas.org/content/114/30/7892">Changes in cognitive flexibility and hypothesis search across human life history from childhood to adolescence to adulthood</a></li>
+      <li><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3422420/">Reconstructing constructivism: Causal models, Bayesian learning mechanisms and the theory theory</a></li>
+      </ul>
+      <u>Background Reading:</u>
+      <ul>
+      <li><a href="https://cocosci.berkeley.edu/tom/papers/LabPublications/GopnicketalYoungLearners.pdf">When Younger Learners Can Be Better (or at Least More Open-Minded) Than Older Ones</a></li>
+      </ul>
       </td>
-      <td></td>
+      <td><a href="https://berkeley-deep-learning.github.io/cs294-131-s18/speakers.html#alison-gopnik-what-4-year-olds-can-do-and-ai-cannot-yet">What 4 year olds can do and AI can’t (yet)</a></td>
       <td></td>
     </tr>
 
