@@ -93,6 +93,7 @@ For more information about deep learning at Berkeley, sign up for the
       <u>Background Reading:</u>
       <ul>
       <li><a href="https://cocosci.berkeley.edu/tom/papers/LabPublications/GopnicketalYoungLearners.pdf">When Younger Learners Can Be Better (or at Least More Open-Minded) Than Older Ones</a></li>
+      <li><a href="https://cocosci.berkeley.edu/Liz/BonawitzTrends2014.pdf">Probabilistic models, learning algorithms, and response variability: sampling in cognitive development</a></li>
       </ul>
       </td>
       <td><a href="https://berkeley-deep-learning.github.io/cs294-131-s18/speakers.html#alison-gopnik-what-4-year-olds-can-do-and-ai-cannot-yet">What 4 year olds can do and AI can’t (yet)</a></td>
