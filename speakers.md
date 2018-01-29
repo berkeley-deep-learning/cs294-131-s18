@@ -46,3 +46,13 @@ frequently appeared on TV and radio including “The Charlie Rose Show” and �
 Colbert Report”. Since 2013 she has written the Mind and Matter column for the Wall
 Street Journal. She lives in Berkeley with her husband Alvy Ray Smith, and has three
 children and three grandchildren.
+
+## Mike Lewis: Deal or No Deal? End-to-End Learning for Negotiation Dialogues
+
+### Abstract
+
+Much of human dialogue occurs in semi-cooperative settings, where agents with different goals attempt to agree on common decisions. Negotiations require complex communication and reasoning skills, but success is easy to measure, making this an interesting task for AI. While neural networks have been effective in imitating human language, this task requires them to use language strategically to achieve a goal. We gather a large dataset of human-human negotiations on a multi-issue bargaining task, where agents who cannot observe each other's reward functions must reach an agreement via natural language dialogue. For the first time, we show it is possible to train end-to-end models for negotiation, which must learn both linguistic and reasoning skills with no annotated dialogue states. We also introduce dialogue rollouts, in which the model plans ahead by simulating possible complete continuations of the conversation, and find that this technique dramatically improves performance. Time permitting, I will also discuss recent work on learning discrete latent representations of dialogue messages, which decouples the semantics of a message from its linguistic realization, allowing more effective use of rollouts and reinforcement learning.
+
+### Bio
+
+Mike Lewis is a scientist at Facebook AI Research, working on connecting language and reasoning. Previously he was a postdoc at the University of Washington, developing search algorithms for neural structured prediction, and has a PhD from the University of Edinburgh on combining symbolic and distributed representations of meaning. He has won an Outstanding Submission Award at the 2014 ACL Workshop on Semantic Parsing, Best Paper at EMNLP 2016 and Best Resource Paper at ACL 2017. His work has been extensively covered in the media, with varying levels of accuracy, everywhere from New Scientist to the front page of The Sun.

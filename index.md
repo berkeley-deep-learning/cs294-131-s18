@@ -102,11 +102,18 @@ For more information about deep learning at Berkeley, sign up for the
 
     <tr>
       <td>02/05</td>
-      <td>Mike Lewis</td>
-      <td>TBD
+      <td><a href="https://berkeley-deep-learning.github.io/cs294-131-s18/speakers.html#mike-lewis-deal-or-no-deal-end-to-end-learning-for-negotiation-dialogues">Mike Lewis</a></td>
+      <td><u>Main Reading:</u>
+      <ul>
+      <li><a href="https://arxiv.org/abs/1706.05125">Deal or No Deal? End-to-End Learning for Negotiation Dialogues</a></li>
+      <li><a href="https://arxiv.org/abs/1712.05846">Hierarchical Text Generation and Planning for Strategic Dialogue</a></li>
+      </ul>
+      <u>Background Reading:</u>
+      <ul>
+      <li><a href="https://arxiv.org/abs/1703.06585">Learning Cooperative Visual Dialog Agents with Deep Reinforcement Learning</a></li>
+      </ul>
       </td>
-      <td></td>
-      <td></td>
+      <td><a href="https://berkeley-deep-learning.github.io/cs294-131-s18/speakers.html#mike-lewis-deal-or-no-deal-end-to-end-learning-for-negotiation-dialogues">Deal or No Deal? End-to-End Learning for Negotiation Dialogues</a></td>
     </tr>
 
     <tr>
