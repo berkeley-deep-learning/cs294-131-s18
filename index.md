@@ -216,7 +216,7 @@ For more information about deep learning at Berkeley, sign up for the
     </tr>
 
     <tr>
-      <td>04/30</td>
+      <td>05/07</td>
       <td>Tentative Poster Session Date</td>
       <td>
       </td>
@@ -225,7 +225,7 @@ For more information about deep learning at Berkeley, sign up for the
     </tr>
 
     <tr>
-      <td>05/03</td>
+      <td>05/07</td>
       <td></td>
       <td>
       </td>
