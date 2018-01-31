@@ -163,7 +163,7 @@ For more information about deep learning at Berkeley, sign up for the
 
     <tr>
       <td>03/19</td>
-      <td>TBD</td>
+      <td>Ian Goodfellow</td>
       <td>TBD
       </td>
       <td></td>
@@ -208,16 +208,7 @@ For more information about deep learning at Berkeley, sign up for the
 
     <tr>
       <td>04/23</td>
-      <td>Ian Goodfellow</td>
-      <td>TBD
-      </td>
-      <td></td>
-      <td></td>
-    </tr>
-
-    <tr>
-      <td>05/07</td>
-      <td>Tentative Poster Session Date</td>
+      <td>POSTER SESSION</td>
       <td>
       </td>
       <td></td>
@@ -225,12 +216,12 @@ For more information about deep learning at Berkeley, sign up for the
     </tr>
 
     <tr>
-      <td>05/07</td>
+      <td>04/27</td>
       <td></td>
       <td>
       </td>
       <td></td>
-      <td>Tentative Final Report Due</td>
+      <td>FINAL REPORT DUE</td>
     </tr>
 
 Poster Session
