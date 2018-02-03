@@ -114,14 +114,24 @@ For more information about deep learning at Berkeley, sign up for the
       </ul>
       </td>
       <td><a href="https://berkeley-deep-learning.github.io/cs294-131-s18/speakers.html#mike-lewis-deal-or-no-deal-end-to-end-learning-for-negotiation-dialogues">Deal or No Deal? End-to-End Learning for Negotiation Dialogues</a></td>
+      <td></td>
     </tr>
 
     <tr>
       <td>02/12</td>
-      <td>Kevin Murphy</td>
-      <td>TBD
+      <td><a href="https://berkeley-deep-learning.github.io/cs294-131-s18/speakers.html#kevin-murphy-probabilistic-models-for-vision-and-language">Kevin Murphy</a></td>
+      <td><u>Main Reading:</u>
+      <ul>
+      <li><a href="https://arxiv.org/abs/1612.00370">Improved Image Captioning via Policy Gradient optimization of SPIDEr</a></li>
+      <li><a href="https://arxiv.org/abs/1705.10762">Generative Models of Visually Grounded Imagination</a></li>
+      </ul>
+      <u>Background Reading:</u>
+      <ul>
+      <li><a href="http://arxiv.org/abs/1612.00563">Self-critical Sequence Training for Image Captioning</a></li>
+      <li><a href="http://arxiv.org/abs/1707.03389">SCAN: Learning Abstract Hierarchical Compositional Visual Concepts</a></li>
+      </ul>
       </td>
-      <td></td>
+      <td><a href="https://berkeley-deep-learning.github.io/cs294-131-s18/speakers.html#kevin-murphy-probabilistic-models-for-vision-and-language">Probabilistic models for vision and language</a></td>
       <td>Final Project Proposal Due</td>
     </tr>
 

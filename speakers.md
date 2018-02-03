@@ -56,3 +56,18 @@ Much of human dialogue occurs in semi-cooperative settings, where agents with di
 ### Bio
 
 Mike Lewis is a scientist at Facebook AI Research, working on connecting language and reasoning. Previously he was a postdoc at the University of Washington, developing search algorithms for neural structured prediction, and has a PhD from the University of Edinburgh on combining symbolic and distributed representations of meaning. He has won an Outstanding Submission Award at the 2014 ACL Workshop on Semantic Parsing, Best Paper at EMNLP 2016 and Best Resource Paper at ACL 2017. His work has been extensively covered in the media, with varying levels of accuracy, everywhere from New Scientist to the front page of The Sun.
+
+## Kevin Murphy: Probabilistic models for vision and language
+
+### Abstract
+
+In this talk, I summarize various approaches to mapping images to captions, and our recent work on the reverse process of generating images from text. In particular, I will discuss our work on
+- visually grounded referring expressions (CVPR'16, https://arxiv.org/abs/1511.02283)
+- discriminative image captioning (CVPR'17, https://arxiv.org/abs/1701.02870)
+- optimizing semantic metrics for image captioning using RL (ICCV'17, https://arxiv.org/abs/1612.00370)
+- variational autoencoders for images and text (submitted to ICLR'18),  https://arxiv.org/abs/1705.10762
+
+
+### Bio
+
+Kevin Murphy is a research scientist at Google in Mountain View, California, where he works on AI, machine learning, and computer vision. Before joining Google in 2011, he was an associate professor (with tenure) of computer science and statistics at the University of British Columbia in Vancouver, Canada. Before starting at UBC in 2004, he was a postdoc at MIT.  Kevin got his BA from U. Cambridge, his MEng from U. Pennsylvania, and his PhD from UC Berkeley. He has published over 80 papers in refereed conferences and journals, as well as an 1100-page textbook called "Machine Learning: a Probabilistic Perspective" (MIT Press, 2012), which was awarded the 2013 DeGroot Prize for best book in the field of Statistical Science. Kevin was also the (co) Editor-in-Chief of JMLR (the Journal of Machine Learning Research) 2012-2017.
