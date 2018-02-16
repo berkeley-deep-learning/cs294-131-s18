@@ -146,10 +146,20 @@ For more information about deep learning at Berkeley, sign up for the
 
     <tr>
       <td>02/26</td>
-      <td>Thomas Funkhouser</td>
-      <td>TBD
+      <td><a href="https://berkeley-deep-learning.github.io/cs294-131-s18/speakers.html#thomas-funkhouser-data-driven-methods-for-matching-labeling-and-synthesizing-3D-shapes">Thomas Funkhouser</a></td>
+      <td><u>Main Reading:</u>
+      <ul>
+      <li><a href="https://arxiv.org/abs/1603.08182">3DMatch: Learning Local Geometric Descriptors from RGB-D Reconstructions</a></li>
+      <li><a href="https://arxiv.org/abs/1706.05170">Interactive 3D Modeling with a Generative Adversarial Network</a></li>
+      </ul>
+      <u>Background Reading:</u>
+      <ul>
+      <li><a href="https://arxiv.org/abs/1611.08974">Semantic Scene Completion from a Single Depth Image</a></li>
+      <li><a href="https://arxiv.org/abs/1610.07584">Learning a Probabilistic Latent Space of Object Shapes via 3D Generative-Adversarial Modeling</a></li>
+      </ul>
       </td>
-      <td></td>
+      <td><a href="https://berkeley-deep-learning.github.io/cs294-131-s18/speakers.html#thomas-funkhouser-data-driven-methods-for-matching-labeling-and-synthesizing-3D-shapes">Data-Driven Methods for Matching, Labeling, and Synthesizing 3D Shapes</a>
+</td>
       <td></td>
     </tr>
 

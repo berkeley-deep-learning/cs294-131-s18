@@ -71,3 +71,35 @@ In this talk, I summarize various approaches to mapping images to captions, and 
 ### Bio
 
 Kevin Murphy is a research scientist at Google in Mountain View, California, where he works on AI, machine learning, and computer vision. Before joining Google in 2011, he was an associate professor (with tenure) of computer science and statistics at the University of British Columbia in Vancouver, Canada. Before starting at UBC in 2004, he was a postdoc at MIT.  Kevin got his BA from U. Cambridge, his MEng from U. Pennsylvania, and his PhD from UC Berkeley. He has published over 80 papers in refereed conferences and journals, as well as an 1100-page textbook called "Machine Learning: a Probabilistic Perspective" (MIT Press, 2012), which was awarded the 2013 DeGroot Prize for best book in the field of Statistical Science. Kevin was also the (co) Editor-in-Chief of JMLR (the Journal of Machine Learning Research) 2012-2017.
+
+## Thomas Funkhouser: Data-Driven Methods for Matching, Labeling, and Synthesizing 3D Shapes
+
+### Abstract
+
+A classic problem in computer vision is to train a system to recognize,
+label, and synthesize a 3D model from partial camera observations.  In
+this talk, I will discuss three projects that address this problem using
+3D convolutional neural networks.  The first learns a 3D local shape
+descriptor with self-supervision from multiple RGB-D views aligned with
+a SLAM reconstruction. The second learns to synthesize novel 3D objects
+in an interactive modeling tool using a 3D Generative Adversarial
+Network.   The third learns to both complete and label semantics for the
+3D space occluded in an RGB-D image.  For each project, I will discuss
+the problem formulation, dataset curation, network architecture, and
+potential applications.  This is joint work with Angel X. Chang, Angela
+Dai, Matthew Fisher, Maciej Halber, Jerry Liu, Matthias Niessner,
+Manolis Savva, Shuran Song, Fisher Yu, Yinda Zhang, and Andy Zeng.
+
+### Bio
+
+Thomas Funkhouser is the David M. Siegel Professor of Computer Science
+at Princeton University.  He received a B.S. in biological sciences from
+Stanford University in 1983, a M.S. in computer science from UCLA in
+1989, and a PhD in computer science from UC Berkeley in 1993.  He was a
+member of the technical staff at Bell Labs during 1993-1997.  He is
+currently a visiting professor at Stanford and a part-time contractor at
+Google.  He has published more than 100 research papers and received
+several awards, including the ACM SIGGRAPH Computer Graphics Achievement
+Award, NSF Career Award, University Council Excellence in Teaching
+Awards, Emerson Electric, E. Lawrence Keyes Faculty Advancement Award,
+Google Faculty Research Awards, and a Sloan Fellowship.
