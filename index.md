@@ -166,7 +166,16 @@ For more information about deep learning at Berkeley, sign up for the
     <tr>
       <td>03/05</td>
       <td>Dileep George</td>
-      <td>TBD
+      <td><u>Main Reading:</u>
+      <ul>
+      <li><a href="http://science.sciencemag.org/content/early/2017/10/26/science.aag2612.full">A generative vision model that trains with high data efficiency and breaks text-based CAPTCHAs</a></li>
+      <li><a href="https://arxiv.org/abs/1710.09829">Dynamic Routing Between Capsules</a></li>
+      </ul>
+      <u>Background Reading:</u>
+      <ul>
+      <li><a href="http://www.dam.brown.edu/people/geman/Homepage/Essays%20and%20ideas%20about%20neurobiology/bias-variance.pdf">Neural networks and the bias variance dilemma</a></li>
+      <li><a href="http://www.cnbc.cmu.edu/~tai/papers/lee_mumford_josa.pdf">Hierarchical Bayesian inference in the visual cortex</a></li>
+      </ul>
       </td>
       <td></td>
       <td></td>
