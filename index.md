@@ -158,7 +158,7 @@ For more information about deep learning at Berkeley, sign up for the
       <li><a href="https://arxiv.org/abs/1610.07584">Learning a Probabilistic Latent Space of Object Shapes via 3D Generative-Adversarial Modeling</a></li>
       </ul>
       </td>
-      <td><a href="https://berkeley-deep-learning.github.io/cs294-131-s18/speakers.html#thomas-funkhouser-data-driven-methods-for-matching-labeling-and-synthesizing-3D-shapes">Data-Driven Methods for Matching, Labeling, and Synthesizing 3D Shapes</a>
+      <td><a href="https://berkeley-deep-learning.github.io/cs294-131-s18/speakers.html#thomas-funkhouser-data-driven-methods-for-matching-labeling-and-synthesizing-3d-shapes">Data-Driven Methods for Matching, Labeling, and Synthesizing 3D Shapes</a>
 </td>
       <td></td>
     </tr>
