@@ -146,7 +146,7 @@ For more information about deep learning at Berkeley, sign up for the
 
     <tr>
       <td>02/26</td>
-      <td><a href="https://berkeley-deep-learning.github.io/cs294-131-s18/speakers.html#thomas-funkhouser-data-driven-methods-for-matching-labeling-and-synthesizing-3D-shapes">Thomas Funkhouser</a></td>
+      <td><a href="https://berkeley-deep-learning.github.io/cs294-131-s18/speakers.html#thomas-funkhouser-data-driven-methods-for-matching-labeling-and-synthesizing-3d-shapes">Thomas Funkhouser</a></td>
       <td><u>Main Reading:</u>
       <ul>
       <li><a href="https://arxiv.org/abs/1603.08182">3DMatch: Learning Local Geometric Descriptors from RGB-D Reconstructions</a></li>
