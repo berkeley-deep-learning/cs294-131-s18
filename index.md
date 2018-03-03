@@ -165,7 +165,7 @@ For more information about deep learning at Berkeley, sign up for the
 
     <tr>
       <td>03/05</td>
-      <td>Dileep George</td>
+      <td><a href="https://berkeley-deep-learning.github.io/cs294-131-s18/speakers.html#dileep-george-visual-perception-data-efficiency-and-deep-learning">Dileep George</a></td>
       <td><u>Main Reading:</u>
       <ul>
       <li><a href="http://science.sciencemag.org/content/early/2017/10/26/science.aag2612.full">A generative vision model that trains with high data efficiency and breaks text-based CAPTCHAs</a></li>
@@ -177,7 +177,7 @@ For more information about deep learning at Berkeley, sign up for the
       <li><a href="http://www.cnbc.cmu.edu/~tai/papers/lee_mumford_josa.pdf">Hierarchical Bayesian inference in the visual cortex</a></li>
       </ul>
       </td>
-      <td></td>
+      <td><a href="https://berkeley-deep-learning.github.io/cs294-131-s18/speakers.html#dileep-george-visual-perception-data-efficiency-and-deep-learning">Visual Perception, Data Efficiency, and Deep Learning</a></td>
       <td></td>
     </tr>
 

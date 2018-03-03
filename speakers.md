@@ -103,3 +103,13 @@ several awards, including the ACM SIGGRAPH Computer Graphics Achievement
 Award, NSF Career Award, University Council Excellence in Teaching
 Awards, Emerson Electric, E. Lawrence Keyes Faculty Advancement Award,
 Google Faculty Research Awards, and a Sloan Fellowship.
+
+## Dileep George: Visual Perception, Data Efficiency, and Deep Learning
+
+### Abstract
+
+We'll start by exploring the classic paper on bias-variance dilemma in neural networks and understand the current successes and failures of convolutional neural networks from this context. If adding more biases is among the required modifications, where would these biases come from? Can studies about the visual cortex teach us something about these biases? We'll use the Lee and Mumford paper to understand more about what the visual cortex is really doing. Is it just a feed-forward classifier, or something different? What if classification is just a side effect of "inference to the best explanation", as Lee and Mumford would argue? From the context of these questions, we'll dive deeper into the Recursive Cortical Network (RCN) paper, whose representational choices are heavily inspired by the human brain and does classification as a side effect of inference to best explanation, and compare and contrast it with capsule networks which also has many similar representational choices. We'll end with a discussion on the role of reasoning/inference in visual perception and why that is important for building artificial general intelligence.
+
+### Bio
+
+Dileep is founder of Vicarious AI, where he leads the development of a general AI layer for robotics. Vicarious is a pioneer of brain-inspired and data-efficient AI algorithms, and they gained world-wide attention for breaking CAPTCHAs with very little training data. Dileep has authored several influential papers, published in Science, NIPS, ICML and CVPR and his research has been featured in NYT, WSJ and NPR. Before cofounding Vicarious, Dileep was CTO of Numenta, an AI company he cofounded with Jeff Hawkins and Donna Dubinsky. Before Numenta, Dileep was a Research Fellow at the Redwood Neuroscience Institute. Dileep’s research on hierarchical models of the brain earned him a PhD in Electrical Engineering from Stanford University.  He has an MS in Electrical Engineering from Stanford and a B.Tech in EE from IIT Mumbai.
