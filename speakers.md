@@ -113,3 +113,13 @@ We'll start by exploring the classic paper on bias-variance dilemma in neural ne
 ### Bio
 
 Dileep is founder of Vicarious AI, where he leads the development of a general AI layer for robotics. Vicarious is a pioneer of brain-inspired and data-efficient AI algorithms, and they gained world-wide attention for breaking CAPTCHAs with very little training data. Dileep has authored several influential papers, published in Science, NIPS, ICML and CVPR and his research has been featured in NYT, WSJ and NPR. Before cofounding Vicarious, Dileep was CTO of Numenta, an AI company he cofounded with Jeff Hawkins and Donna Dubinsky. Before Numenta, Dileep was a Research Fellow at the Redwood Neuroscience Institute. Dileep’s research on hierarchical models of the brain earned him a PhD in Electrical Engineering from Stanford University.  He has an MS in Electrical Engineering from Stanford and a B.Tech in EE from IIT Mumbai.
+
+## Bruno Olshausen: Perception in Brains and Machines
+
+### Abstract
+
+The quest to understand intelligence in brains and to build it in machines is certain to become one of the great intellectual and technological endeavors of the 21st century. Here I shall argue for a multidisciplinary approach that sees both neuroscience and engineering as trying to solve a common set of core problems. I shall draw upon three examples: 1) The theory of sparse coding which play a key role in our understanding of the visual system also forms the basis of modern image analysis and recognition pipelines; 2) Studies of eye movements and foveated imaging inform the use of active vision strategies in robotics; and 3) The end of Moore’s law is steering engineers toward neuroscience in order to learn how reliable computation can be performed with unreliable components.
+
+### Bio
+
+Bruno Olshausen is Professor of Neuroscience and Optometry at the University of California, Berkeley. He also serves as Director of the Redwood Center for Theoretical Neuroscience, an interdisciplinary research group focusing on mathematical and computational models of brain function. He received B.S. and M.S. degrees in electrical engineering from Stanford University, and a Ph.D. in Computation and Neural Systems from the California Institute of Technology. He was Assistant and subsequently Associate Professor in the Departments of Psychology and Neurobiology, Physiology and Behavior at UC Davis from 1996-2005. He has been at UC Berkeley since 2005. Olshausen's research aims to understand the information processing strategies employed by the brain for doing tasks such as object recognition and scene analysis.

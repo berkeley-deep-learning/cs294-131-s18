@@ -183,10 +183,19 @@ For more information about deep learning at Berkeley, sign up for the
 
     <tr>
       <td>03/12</td>
-      <td>Bruno Olshausen</td>
-      <td>TBD
+      <td><a href="https://berkeley-deep-learning.github.io/cs294-131-s18/speakers.html#bruno-olshausen-perception-in-brains-and-machines">Bruno Olshausen</a></td>
+      <td><u>Main Reading:</u>
+      <ul>
+      <li><a href="https://arxiv.org/abs/1611.09430">Emergence of foveal image sampling from learning to attend in visual scenes</a></li>
+      <li><a href="https://arxiv.org/abs/1112.6209">Building High-level Features
+Using Large Scale Unsupervised Learning</a></li>
+      </ul>
+      <u>Background Reading:</u>
+      <ul>
+      <li><a href="https://www.ece.rice.edu/~eld1/papers/Rozell08.pdf">Sparse Coding via Thresholding and Local Competition in Neural Circuits</a></li>
+      </ul>
       </td>
-      <td></td>
+      <td><a href="https://berkeley-deep-learning.github.io/cs294-131-s18/speakers.html#bruno-olshausen-perception-in-brains-and-machines">Perception in Brains and Machines</a></td>
       <td></td>
     </tr>
 
