@@ -205,7 +205,7 @@ Using Large Scale Unsupervised Learning</a></li>
       <td><u>Main Reading:</u>
       <ul>
       <li><a href="https://arxiv.org/abs/1802.08195">Adversarial Examples that Fool both Human and Computer Vision</a></li>
-      <li><a href="">Adversarial Logit Pairing (posted on Piazza)</a></li>
+      <li><a href="https://d1b10bmlvqabco.cloudfront.net/attach/j8waviey9h55w8/hl2os511npk4n2/jerhkdt08zy1/ALP.pdf">Adversarial Logit Pairing</a></li>
       </ul>
       <u>Background Reading:</u>
       <ul>
