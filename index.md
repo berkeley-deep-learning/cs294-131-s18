@@ -201,8 +201,17 @@ Using Large Scale Unsupervised Learning</a></li>
 
     <tr>
       <td>03/19</td>
-      <td>Ian Goodfellow</td>
-      <td>TBD
+      <td>Alex Kurakin</td>
+      <td><u>Main Reading:</u>
+      <ul>
+      <li><a href="https://arxiv.org/abs/1802.08195">Adversarial Examples that Fool both Human and Computer Vision</a></li>
+      <li><a href="">Adversarial Logit Pairing (posted on Piazza)</a></li>
+      </ul>
+      <u>Background Reading:</u>
+      <ul>
+      <li><a href="https://arxiv.org/abs/1611.02770">Delving into Transferable Adversarial Examples and Black-box Attacks</a></li>
+      <li><a href="https://arxiv.org/abs/1706.06083">Towards Deep Learning Models Resistant to Adversarial Attacks</a></li>
+      </ul>
       </td>
       <td></td>
       <td>Final Project Milestone Due</td>
