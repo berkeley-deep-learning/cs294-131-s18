@@ -255,8 +255,8 @@ Using Large Scale Unsupervised Learning</a></li>
 
     <tr>
       <td>04/23</td>
-      <td>POSTER SESSION</td>
-      <td>
+      <td><b>POSTER SESSION</b></td>
+      <td>The poster session is <b>1-4pm</b> in the Soda Hall 5th floor atrium. You can begin setting up at <b>12:30pm</b>.
       </td>
       <td></td>
       <td></td>
