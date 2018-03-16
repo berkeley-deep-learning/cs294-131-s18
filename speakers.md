@@ -123,3 +123,14 @@ The quest to understand intelligence in brains and to build it in machines is ce
 ### Bio
 
 Bruno Olshausen is Professor of Neuroscience and Optometry at the University of California, Berkeley. He also serves as Director of the Redwood Center for Theoretical Neuroscience, an interdisciplinary research group focusing on mathematical and computational models of brain function. He received B.S. and M.S. degrees in electrical engineering from Stanford University, and a Ph.D. in Computation and Neural Systems from the California Institute of Technology. He was Assistant and subsequently Associate Professor in the Departments of Psychology and Neurobiology, Physiology and Behavior at UC Davis from 1996-2005. He has been at UC Berkeley since 2005. Olshausen's research aims to understand the information processing strategies employed by the brain for doing tasks such as object recognition and scene analysis.
+
+
+## Alex Kurakin: Adversarial Examples
+
+### Abstract
+
+Adversarial examples are small perturbations that cause misclassification in machine learning classifiers. Adversarial examples provide a tool to fool machine learning classifiers thus could be a security problem. In this lecture we study in details what adversarial examples are, how to craft them and how to make classifiers robust to them. Also we will look into some state of the art results and interesting observations such as adversarial examples for humans.
+
+### Bio
+
+Alex Kurakin is a research engineer for Google Brain, where his research focuses on various aspects of adversarial machine learning, including the security and robustness of neural networks. Alex holds a PhD in computer vision and image processing from the Moscow Institute of Physics and Technology. In his work Alex showed that adversarial examples exist even when perceived through physical sensors and also was the first person to scale adversarial training to ImageNet size problems. He also was a main organizer of the adversarial examples competition which was held as a part of NIPS17 competition track.

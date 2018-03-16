@@ -201,7 +201,7 @@ Using Large Scale Unsupervised Learning</a></li>
 
     <tr>
       <td>03/19</td>
-      <td>Alex Kurakin</td>
+      <td><a href="https://berkeley-deep-learning.github.io/cs294-131-s18/speakers.html#alex-kurakin-adversarial-examples">Alex Kurakin</a></td>
       <td><u>Main Reading:</u>
       <ul>
       <li><a href="https://arxiv.org/abs/1802.08195">Adversarial Examples that Fool both Human and Computer Vision</a></li>
@@ -213,7 +213,7 @@ Using Large Scale Unsupervised Learning</a></li>
       <li><a href="https://arxiv.org/abs/1706.06083">Towards Deep Learning Models Resistant to Adversarial Attacks</a></li>
       </ul>
       </td>
-      <td></td>
+      <td><a href="https://berkeley-deep-learning.github.io/cs294-131-s18/speakers.html#alex-kurakin-adversarial-examples">Adversarial Examples</a></td>
       <td>Final Project Milestone Due</td>
     </tr>
 
