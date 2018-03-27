@@ -135,7 +135,7 @@ Adversarial examples are small perturbations that cause misclassification in mac
 
 Alex Kurakin is a research engineer for Google Brain, where his research focuses on various aspects of adversarial machine learning, including the security and robustness of neural networks. Alex holds a PhD in computer vision and image processing from the Moscow Institute of Physics and Technology. In his work Alex showed that adversarial examples exist even when perceived through physical sensors and also was the first person to scale adversarial training to ImageNet size problems. He also was a main organizer of the adversarial examples competition which was held as a part of NIPS17 competition track.
 
-## Mohammad Norouzi
+## Mohammad Norouzi: Expressive Structured Models of Images and Objects
 
 ### Abstract
 
