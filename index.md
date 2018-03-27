@@ -228,10 +228,19 @@ Using Large Scale Unsupervised Learning</a></li>
 
     <tr>
       <td>04/02</td>
-      <td>Mohammad Norouzi</td>
-      <td>TBD
+      <td><a href="https://berkeley-deep-learning.github.io/cs294-131-s18/speakers.html#mohammad-norouzi-expressive-structured-models-of-images-and-objects">Mohammad Norouzi</a></td>
+      <td><u>Main Reading:</u>
+      <ul>
+      <li><a href="http://proceedings.mlr.press/v70/gygli17a/gygli17a.pdf">Deep Value Networks Learn to Evaluate and Iteratively Refine Structured Outputs</a></li>
+      <li><a href="http://www.cs.toronto.edu/~norouzi/research/papers/keypoints.pdf">Discovery of Semantic 3D Keypoints via End-to-end Geometric Reasoning</a></li>
+      </ul>
+      <u>Background Reading:</u>
+      <ul>
+      <li><a href="http://www.jmlr.org/papers/volume6/tsochantaridis05a/tsochantaridis05a.pdf">Large Margin Methods for Structured and Interdependent Output Variables</a></li>
+      <li><a href="http://www.csri.utoronto.ca/~hinton/csc321/readings/transauto3.pdf">Transforming Autoencoders</a></li>
+      </ul>
       </td>
-      <td></td>
+      <td><a href="https://berkeley-deep-learning.github.io/cs294-131-s18/speakers.html#mohammad-norouzi-expressive-structured-models-of-images-and-objects">Expressive Structured Models of Images and Objects</a></td>
       <td></td>
     </tr>
 
