@@ -246,10 +246,19 @@ Using Large Scale Unsupervised Learning</a></li>
 
     <tr>
       <td>04/09</td>
-      <td>Abhinav Gupta</td>
-      <td>TBD
+      <td><a href="https://berkeley-deep-learning.github.io/cs294-131-s18/speakers.html#abhinav-gupta-supersizing-and-empowering-visual-learning">Abhinav Gupta</a></td>
+      <td><u>Main Reading:</u>
+      <ul>
+      <li><a href="https://arxiv.org/abs/1708.02901">Transitive Invariance for Self-supervised Visual Representation Learning</a></li>
+      <li><a href="https://arxiv.org/abs/1712.01238">Learning by Asking Questions</a></li>
+      </ul>
+      <u>Background Reading:</u>
+      <ul>
+      <li><a href="https://arxiv.org/abs/1505.05192">Unsupervised Visual Representation Learning by Context Prediction</a></li>
+      <li><a href="https://arxiv.org/abs/1505.00687">Unsupervised Learning of Visual Representations using Videos</a></li>
+      </ul>
       </td>
-      <td></td>
+      <td><a href="https://berkeley-deep-learning.github.io/cs294-131-s18/speakers.html#abhinav-gupta-supersizing-and-empowering-visual-learning">SuperSizing and Empowering Visual Learning</a></td>
       <td></td>
     </tr>
 

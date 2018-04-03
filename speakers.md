@@ -135,6 +135,7 @@ Adversarial examples are small perturbations that cause misclassification in mac
 
 Alex Kurakin is a research engineer for Google Brain, where his research focuses on various aspects of adversarial machine learning, including the security and robustness of neural networks. Alex holds a PhD in computer vision and image processing from the Moscow Institute of Physics and Technology. In his work Alex showed that adversarial examples exist even when perceived through physical sensors and also was the first person to scale adversarial training to ImageNet size problems. He also was a main organizer of the adversarial examples competition which was held as a part of NIPS17 competition track.
 
+
 ## Mohammad Norouzi: Expressive Structured Models of Images and Objects
 
 ### Abstract
@@ -144,3 +145,13 @@ Feedforward neural networks are capable of learning complex functional dependenc
 ### Bio
 
 Mohammad Norouzi is a Senior Research Scientist at Google Brain. He completed the PhD in Computer Science at the University of Toronto working under the supervision of David Fleet supported by a Google Fellowship. His PhD research focused on compact discrete representations for large-scale similarity search. Since joining Google Brain, he has been working at the intersection of deep learning, reinforcement learning, and structured output prediction, co-developing Google's neural machine translation system and the path consistency learning (PCL) algorithm for reinforcement learning.
+
+## Abhinav Gupta: SuperSizing and Empowering Visual Learning
+
+### Abstract
+
+In the last decade, we have made significant advances in field of computer vision thanks to supervised learning. But this passive supervision of our models has now become our biggest bottleneck.  In this talk, I will discuss our efforts towards scaling up and empowering learning. First, I will show how the amount of labeled data is still a crucial factor in representation learning. I will then discuss one possible avenue on how we can scale up learning by using self-supervision. Next, I will discuss how we can scale up semantic learning to 10x and more categories by using visual knowledge and graph-based reasoning. But just scaling on amount of data and categories is not sufficient. We also need to empower our learning algorithms with the ability to control their own supervision. In the third part of the talk, I will discuss how we can move from passive to interactive learning in the context of VQA. Our agents live in the physical world and need the ability to interact in the physical world. Towards this goal, I will finally present our efforts in large-scale learning of embodied agents in robotics.
+
+### Bio
+
+Abhinav Gupta is an Associate Professor at the Robotics Institute, Carnegie Mellon University. Abhinav's research focuses on scaling up learning by building self-supervised, lifelong and interactive learning systems. Specifically, he is interested in how self-supervised systems can effectively use data to learn visual representation, common sense and representation for actions in robots. Abhinav is a recipient of several awards including ONR Young Investigator Award, PAMI Young Research Award, Sloan Research Fellowship, Okawa Foundation Grant, Bosch Young Faculty Fellowship, YPO Fellowship, IJCAI Early Career Spotlight, ICRA Best Student Paper award, and the ECCV Best Paper Runner-up Award. His research has also been featured in Newsweek, BBC, Wall Street Journal, Wired and Slashdot.
