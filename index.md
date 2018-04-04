@@ -264,10 +264,19 @@ Using Large Scale Unsupervised Learning</a></li>
 
     <tr>
       <td>04/16</td>
-      <td>Ryan Adams</td>
-      <td>TBD
+      <td><a href="https://berkeley-deep-learning.github.io/cs294-131-s18/speakers.html#ryan-adams-building-probabilistic-structure-into-massively-parameterized-models">Ryan Adams</a></td>
+      <td><u>Main Reading:</u>
+      <ul>
+      <li><a href="https://arxiv.org/abs/1603.06277">Composing graphical models with neural networks for structured representations and fast inference</a></li>
+      <li><a href="https://arxiv.org/abs/1312.6114">Auto-Encoding Variational Bayes</a></li>
+      </ul>
+      <u>Background Reading:</u>
+      <ul>
+      <li><a href="https://arxiv.org/abs/1206.7051">Stochastic Variational Inference</a></li>
+      <li><a href="http://www.cell.com/neuron/abstract/S0896-6273(15)01037-5">Mapping Sub-Second Structure in Mouse Behavior</a></li>
+      </ul>
       </td>
-      <td></td>
+      <td><a href="https://berkeley-deep-learning.github.io/cs294-131-s18/speakers.html#ryan-adams-building-probabilistic-structure-into-massively-parameterized-models">Building Probabilistic Structure into Massively Parameterized Models</a></td>
       <td></td>
     </tr>
 

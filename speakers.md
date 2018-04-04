@@ -146,6 +146,7 @@ Feedforward neural networks are capable of learning complex functional dependenc
 
 Mohammad Norouzi is a Senior Research Scientist at Google Brain. He completed the PhD in Computer Science at the University of Toronto working under the supervision of David Fleet supported by a Google Fellowship. His PhD research focused on compact discrete representations for large-scale similarity search. Since joining Google Brain, he has been working at the intersection of deep learning, reinforcement learning, and structured output prediction, co-developing Google's neural machine translation system and the path consistency learning (PCL) algorithm for reinforcement learning.
 
+
 ## Abhinav Gupta: SuperSizing and Empowering Visual Learning
 
 ### Abstract
@@ -155,3 +156,14 @@ In the last decade, we have made significant advances in field of computer visio
 ### Bio
 
 Abhinav Gupta is an Associate Professor at the Robotics Institute, Carnegie Mellon University. Abhinav's research focuses on scaling up learning by building self-supervised, lifelong and interactive learning systems. Specifically, he is interested in how self-supervised systems can effectively use data to learn visual representation, common sense and representation for actions in robots. Abhinav is a recipient of several awards including ONR Young Investigator Award, PAMI Young Research Award, Sloan Research Fellowship, Okawa Foundation Grant, Bosch Young Faculty Fellowship, YPO Fellowship, IJCAI Early Career Spotlight, ICRA Best Student Paper award, and the ECCV Best Paper Runner-up Award. His research has also been featured in Newsweek, BBC, Wall Street Journal, Wired and Slashdot.
+
+
+## Ryan Adams: Building Probabilistic Structure into Massively Parameterized Models
+
+### Abstract
+
+Scientific applications of machine learning typically involve the identification of interpretable structure from high-dimensional observations. It is often challenging, however, to balance the flexibility required for high dimensional problems against the parsimonious structure that helps us model physical reality. I view this challenge through the lens of semiparametric modeling, in which a massively-parameterized function approximator is coupled to a compact and interpretable probabilistic model. Of particular interest in this vein is the merging of deep neural networks with graphical models containing latent variables, which enables each component to play to its strengths. I will discuss several different classes of such models, and various applications, in areas such as neuroscience.
+
+### Bio
+
+Ryan Adams is a Professor of Computer Science at Princeton University and Research Scientist at Google Brain. Ryan completed his Ph.D. in physics under David MacKay FRS at the University of Cambridge, where he was a Gates Cambridge Scholar. Following his Ph.D. Ryan spent two years as a CIFAR Junior Research Fellow at the University of Toronto. From 2011-2016, he was an Assistant Professor at Harvard University in the School of Engineering and Applied Sciences. Ryan was co-founder and CEO of Whetlab LLC, a machine learning startup that was acquired by Twitter in 2015.  Ryan has won paper awards at ICML, UAI, and AISTATS, received the DARPA Young Faculty Award and the Alfred P. Sloan Fellowship. He also co-hosted the popular Talking Machines podcast.
